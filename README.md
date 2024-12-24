@@ -7,5 +7,7 @@ DERS 22: [Eðitim Serisinin 401 Moodülü GitHub Deposu ](https://github.com/ibrahi
 
 DERS 22 : 501 MOODÜLÜNE BBAÞLADIK . DAPPER KULLANMAYA BAÞLADIK. 
 
-DERS 23 :  
+DERS 23 : DAPPER ÝÞLEMLERÝNÝ TAMAMLADIK. ÖRNEKLER YAPTIK. MS SQL ÝLE ÝLGÝLÝ PROJEMÝZÝ BÝTÝRDÝK. 
+
+DERS 24 : 
 

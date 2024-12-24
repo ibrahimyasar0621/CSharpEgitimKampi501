@@ -57,6 +57,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
       <Link>Form1.Designer.cs</Link>
     </Compile>
+    <Compile Include="ConnectionString\DatabaseConnectionString.cs" />
     <Compile Include="Dtos\CreateProductDto.cs" />
     <Compile Include="Dtos\ResultProductDto.cs" />
     <Compile Include="Dtos\UpdateProductDto.cs" />
